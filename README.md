@@ -1,4 +1,4 @@
-# CloudPerformanceTuning
+# E-Commerce-Website
 In this project I'll be making an E-Commerce Wesbite Called-SkyStore 
 I Had Completed the Front-End & Back-end for the project via html css js & php over xampp server.
 Below are the screenshots of the final result
